@@ -1,0 +1,19 @@
+{
+  "name": "angular-generator",
+  "version": "1.0.0",
+  "description": "A very custom generator",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johncoffee/angular-generator.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/johncoffee/angular-generator/issues"
+  },
+  "homepage": "https://github.com/johncoffee/angular-generator"
+}
